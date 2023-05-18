@@ -1,11 +1,7 @@
 
 
 const {Router} = require('express');
-
-
 const router = Router();
-
-
 
 const usersAPI = require('./users.api');
 
